@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 # Hi, I'm hono0130 👋🏻
 
-I'm a Go server-side and cloud infra engineer.
+I'm a Go server-side and cloud infra engineer. <br>
+Please contact with me on [LinkedIn](https://www.linkedin.com/in/honoka-toda).
 
 ## Tech Stack 💻
 
