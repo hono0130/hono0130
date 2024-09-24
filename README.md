@@ -12,24 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 style="text-align: center;">
-Hi, I'm hono0130 👋🏻
-</h1>
 
-<div style="text-align: center;">I'm a Go server-side and cloud infra engineer.</div>
+# Hi, I'm hono0130 👋🏻
+
+I'm a Go server-side and cloud infra engineer.
 
 ## Tech Stack 💻
 
-[![My Programming Language Skills](https://skillicons.dev/icons?i=go,python)](https://skillicons.dev)<br>
+[![My Programming Language Skills](https://skillicons.dev/icons?i=go,python,java)](https://skillicons.dev)<br>
 [![My Other Skills](https://skillicons.dev/icons?i=aws,terraform,docker,grafana)](https://skillicons.dev)
 
 ## Certifications 🏆
 
 <!--START_SECTION:badges-->
+
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/0acf5fc4-5f63-4335-ba40-72436d7344fc "AWS Certified Cloud Practitioner")
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/0b662617-b115-4185-86d0-fbdb091c1cf1 "AWS Certified SysOps Administrator – Associate")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/1a91bdb0-8d09-4bdc-ba9a-0fa8eda95028 "AWS Certified Solutions Architect – Associate")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/e1c68d2a-4926-4ccd-ae86-2b987e8f4b11 "AWS Certified Developer – Associate")
+
 <!--END_SECTION:badges-->
 
 ## Stats 📊
