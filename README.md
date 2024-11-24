@@ -20,8 +20,8 @@ Please contact with me on [LinkedIn](https://www.linkedin.com/in/honoka-toda).
 
 ## Tech Stack 💻
 
-[![My Programming Language Skills](https://skillicons.dev/icons?i=go,python,java)](https://skillicons.dev)<br>
-[![My Other Skills](https://skillicons.dev/icons?i=aws,terraform,docker,grafana)](https://skillicons.dev)
+[![My Programming Language Skills](https://skillicons.dev/icons?i=go,python)](https://skillicons.dev)<br>
+[![My Other Skills](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,grafana)](https://skillicons.dev)
 
 ## Certifications 🏆
 
