@@ -26,6 +26,7 @@ Please contact with me on [LinkedIn](https://www.linkedin.com/in/honoka-toda).
 ## Certifications 🏆
 
 <!--START_SECTION:badges-->
+[![Cloud Digital Leader](https://images.credly.com/size/110x110/images/300d4058-0dbd-47b1-96ad-63ff89e41d2b/image.png)](http://www.credly.com/badges/90a2a947-7186-4014-99f2-3b89f0847a11 "Cloud Digital Leader")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/1caf42a0-387c-46ef-a532-0f7d485ec985 "CKAD: Certified Kubernetes Application Developer")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/0acf5fc4-5f63-4335-ba40-72436d7344fc "AWS Certified Cloud Practitioner")
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/0b662617-b115-4185-86d0-fbdb091c1cf1 "AWS Certified SysOps Administrator – Associate")
