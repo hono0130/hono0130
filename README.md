@@ -26,14 +26,14 @@ Please contact with me on [LinkedIn](https://www.linkedin.com/in/honoka-toda).
 ## Certifications 🏆
 
 <!--START_SECTION:badges-->
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/79b35397-115c-4a5a-a963-36f70bd23824 "CKA: Certified Kubernetes Administrator")
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/1caf42a0-387c-46ef-a532-0f7d485ec985 "CKAD: Certified Kubernetes Application Developer")
+[![AWS Certified Data Engineer – Associate](https://images.credly.com/size/110x110/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png)](http://www.credly.com/badges/ee1fa5b4-6dca-4440-98a1-23ce1a0b7a73 "AWS Certified Data Engineer – Associate")
+[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/0b662617-b115-4185-86d0-fbdb091c1cf1 "AWS Certified SysOps Administrator – Associate")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/e1c68d2a-4926-4ccd-ae86-2b987e8f4b11 "AWS Certified Developer – Associate")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/1a91bdb0-8d09-4bdc-ba9a-0fa8eda95028 "AWS Certified Solutions Architect – Associate")
-[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/0b662617-b115-4185-86d0-fbdb091c1cf1 "AWS Certified SysOps Administrator – Associate")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/1caf42a0-387c-46ef-a532-0f7d485ec985 "CKAD: Certified Kubernetes Application Developer")
-[![Cloud Digital Leader](https://images.credly.com/size/110x110/images/300d4058-0dbd-47b1-96ad-63ff89e41d2b/image.png)](http://www.credly.com/badges/90a2a947-7186-4014-99f2-3b89f0847a11 "Cloud Digital Leader")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/94f9c586-d743-4f94-a1c9-3fd65455a3cb "AWS Certified Cloud Practitioner")
-[![AWS Certified Data Engineer – Associate](https://images.credly.com/size/110x110/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png)](http://www.credly.com/badges/ee1fa5b4-6dca-4440-98a1-23ce1a0b7a73 "AWS Certified Data Engineer – Associate")
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/79b35397-115c-4a5a-a963-36f70bd23824 "CKA: Certified Kubernetes Administrator")
+[![Cloud Digital Leader](https://images.credly.com/size/110x110/images/300d4058-0dbd-47b1-96ad-63ff89e41d2b/image.png)](http://www.credly.com/badges/90a2a947-7186-4014-99f2-3b89f0847a11 "Cloud Digital Leader")
 <!--END_SECTION:badges-->
 
 ## Stats 📊
