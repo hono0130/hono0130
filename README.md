@@ -34,6 +34,8 @@ Please contact with me on [LinkedIn](https://www.linkedin.com/in/honoka-toda).
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/1a91bdb0-8d09-4bdc-ba9a-0fa8eda95028 "AWS Certified Solutions Architect – Associate")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/94f9c586-d743-4f94-a1c9-3fd65455a3cb "AWS Certified Cloud Practitioner")
 [![Cloud Digital Leader](https://images.credly.com/size/110x110/images/300d4058-0dbd-47b1-96ad-63ff89e41d2b/image.png)](http://www.credly.com/badges/90a2a947-7186-4014-99f2-3b89f0847a11 "Cloud Digital Leader")
+[![KCSA: Kubernetes and Cloud Native Security Associate](https://images.credly.com/size/110x110/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png)](http://www.credly.com/badges/77c6d4b7-9f31-41c3-8d10-5bbbf28398d6 "KCSA: Kubernetes and Cloud Native Security Associate")
+[![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/c30b8d94-91f3-4236-8b4d-fc237dfa2017 "KCNA: Kubernetes and Cloud Native Associate")
 <!--END_SECTION:badges-->
 
 ## Stats 📊
