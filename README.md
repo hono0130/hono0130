@@ -26,6 +26,8 @@ Please contact with me on [LinkedIn](https://www.linkedin.com/in/honoka-toda).
 ## Certifications 🏆
 
 <!--START_SECTION:badges-->
+[![Kubestronaut](https://images.credly.com/size/110x110/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png)](http://www.credly.com/badges/010de7d9-154e-4bc7-a906-6b7cfd97e92b "Kubestronaut")
+[![CKS: Certified Kubernetes Security Specialist](https://images.credly.com/size/110x110/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](http://www.credly.com/badges/173cc553-8a04-45cf-9563-90b2ea9c6b7d "CKS: Certified Kubernetes Security Specialist")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/79b35397-115c-4a5a-a963-36f70bd23824 "CKA: Certified Kubernetes Administrator")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/1caf42a0-387c-46ef-a532-0f7d485ec985 "CKAD: Certified Kubernetes Application Developer")
 [![KCSA: Kubernetes and Cloud Native Security Associate](https://images.credly.com/size/110x110/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png)](http://www.credly.com/badges/77c6d4b7-9f31-41c3-8d10-5bbbf28398d6 "KCSA: Kubernetes and Cloud Native Security Associate")
