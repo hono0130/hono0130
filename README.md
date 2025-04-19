@@ -38,6 +38,7 @@ Please contact with me on [LinkedIn](https://www.linkedin.com/in/honoka-toda).
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/1a91bdb0-8d09-4bdc-ba9a-0fa8eda95028 "AWS Certified Solutions Architect – Associate")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/94f9c586-d743-4f94-a1c9-3fd65455a3cb "AWS Certified Cloud Practitioner")
 [![Cloud Digital Leader](https://images.credly.com/size/110x110/images/300d4058-0dbd-47b1-96ad-63ff89e41d2b/image.png)](http://www.credly.com/badges/90a2a947-7186-4014-99f2-3b89f0847a11 "Cloud Digital Leader")
+[![Associate Cloud Engineer](https://images.credly.com/size/110x110/images/f6c4798e-59c9-4e94-8383-58a9041e8a7f/image.png)](http://www.credly.com/badges/482d409f-df9c-4644-83c1-e62ffa7c51eb "Associate Cloud Engineer")
 <!--END_SECTION:badges-->
 
 ## Stats 📊
